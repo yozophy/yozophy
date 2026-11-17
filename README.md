@@ -29,7 +29,7 @@
 Seperti Pillars of Creation, sebuah proyek besar dimulai dari gumpalan gas dan debu yang pelan-pelan runtuh oleh gravitasi, lalu menjadi bintang baru. Begitu juga cara saya belajar dan membangun: sedikit demi sedikit, sampai ada yang menyala.
 
 - 🔭 Sedang mengerjakan: `Penelitian terkait Prediksi Daya Keluaran Fotovoltaik Berbasis Algoritma Ensemble Learning`
-- 🌱 Sedang dipelajari: `Machine Learning`
+- 🌱 Sedang dipelajari: `Machine Learning, Physics, Computational Physics`
 - 💬 Tanya saya soal: `Astronomi`
 - 📫 Kontak: `-`
 
