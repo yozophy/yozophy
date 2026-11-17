@@ -28,10 +28,10 @@
 
 Seperti Pillars of Creation, sebuah proyek besar dimulai dari gumpalan gas dan debu yang pelan-pelan runtuh oleh gravitasi, lalu menjadi bintang baru. Begitu juga cara saya belajar dan membangun: sedikit demi sedikit, sampai ada yang menyala.
 
-- 🔭 Sedang mengerjakan: `isi proyek saat ini`
-- 🌱 Sedang dipelajari: `isi topik yang dipelajari`
-- 💬 Tanya saya soal: `isi topik favorit`
-- 📫 Kontak: `isi email atau tautan sosial`
+- 🔭 Sedang mengerjakan: `Penelitian terkait Prediksi Daya Keluaran Fotovoltaik Berbasis Algoritma Ensemble Learning`
+- 🌱 Sedang dipelajari: `Machine Learning`
+- 💬 Tanya saya soal: `Astronomi`
+- 📫 Kontak: `-`
 
 ## 🛰️ Teknologi
 
@@ -45,19 +45,6 @@ Seperti Pillars of Creation, sebuah proyek besar dimulai dari gumpalan gas dan d
 </div>
 
 <!-- Tambah atau ganti badge sesuai teknologi yang dipakai: https://shields.io dan https://simpleicons.org -->
-
-## 🌠 Statistik
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yozophy&show_icons=true&hide_border=true&bg_color=0d0221&title_color=e0a458&icon_color=e0a458&text_color=ffffff" alt="Statistik GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozophy&layout=compact&hide_border=true&bg_color=0d0221&title_color=e0a458&text_color=ffffff" alt="Bahasa teratas" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yozophy&hide_border=true&background=0d0221&ring=e0a458&fire=e0a458&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=e0a458&sideNums=e0a458&dates=b8a9c9" alt="Streak GitHub" />
-
-</div>
 
 ## 🔗 Proyek Pilihan
 
