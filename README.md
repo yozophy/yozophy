@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0221,3b1f5c,8c4a2f,e0a458&height=220&section=header&text=Yozophy&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Menjelajah%20data%20dan%20kode%20di%20antara%20bintang&descSize=18&descAlignY=72" alt="Header Yozophy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111111,3a3a3a,6b6b6b,9a9a9a&height=220&section=header&text=Yozophy&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Menjelajah%20data%20dan%20kode%20di%20antara%20bintang&descSize=18&descAlignY=72" alt="Header Yozophy" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=E0A458&center=true&vCenter=true&width=520&lines=Halo%2C+saya+Yozophy+%E2%9C%A8;Terpesona+oleh+Pillars+of+Creation;Membangun+sesuatu+dari+debu+bintang" alt="Teks mengetik" />
 
