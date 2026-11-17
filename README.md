@@ -2,24 +2,22 @@
 
 <div align="center">
 
-<img src="assets/header.svg" alt="Header Yozophy" width="100%" />
+<img src="assets/header.svg" alt="Header Yozophy" width="70%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=E0A458&center=true&vCenter=true&width=520&lines=Halo%2C+saya+Yozophy+%E2%9C%A8;Terpesona+oleh+Pillars+of+Creation;Membangun+sesuatu+dari+debu+bintang" alt="Teks mengetik" />
 
 <br/>
 
-<img src="assets/pillars-of-creation.png" alt="Pillars of Creation di Nebula Elang (Eagle Nebula)" width="100%" />
+<img src="assets/pillars-of-creation.png" alt="Pillars of Creation di Nebula Elang (Eagle Nebula)" width="70%" />
 
 <sub><i>Pillars of Creation, Nebula Elang (M16). Kredit gambar: NASA, ESA, CSA, STScI.</i></sub>
 
 <br/><br/>
 
 <a href="https://giphy.com/gifs/esawebb-nYkMEJDr2FayV6ypvl">
-  <img src="assets/webb-stars.gif" alt="GIF dari ESA/Webb di GIPHY" width="100%" />
+  <img src="assets/webb-stars.gif" alt="GIF dari ESA/Webb di GIPHY" width="70%" />
 </a>
-
 <sub><i>GIF: ESA/Webb via GIPHY.</i></sub>
-
 </div>
 
 ---
