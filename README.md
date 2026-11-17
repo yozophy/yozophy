@@ -8,14 +8,14 @@
 
 <br/>
 
-<img src="assets/pillars-of-creation.png" alt="Pillars of Creation di Nebula Elang (Eagle Nebula)" width="420" />
+<img src="assets/pillars-of-creation.png" alt="Pillars of Creation di Nebula Elang (Eagle Nebula)" width="100%" />
 
 <sub><i>Pillars of Creation, Nebula Elang (M16). Kredit gambar: NASA, ESA, CSA, STScI.</i></sub>
 
 <br/><br/>
 
 <a href="https://giphy.com/gifs/esawebb-nYkMEJDr2FayV6ypvl">
-  <img src="assets/webb-stars.gif" alt="GIF dari ESA/Webb di GIPHY" width="420" />
+  <img src="assets/webb-stars.gif" alt="GIF dari ESA/Webb di GIPHY" width="100%" />
 </a>
 
 <sub><i>GIF: ESA/Webb via GIPHY.</i></sub>
