@@ -21,11 +21,7 @@
 
 My fascination with the cosmos is the compass by which I live. In the Pillars of Creation, clouds of gas and dust collapse slowly under their own gravity until new stars ignite. I take this as a model for how I learn and work: understanding forms through patient, incremental effort, until it begins to shine.
 
-🔭 Currently working on: Research on Photovoltaic Power Output Prediction Using Ensemble Learning Algorithms
-🔭 Currently working on: Research on Redshift Analysis Using SDSS Data
-🌱 Currently learning: Machine Learning, Physics, Computational Physics, Astronomy
-💬 Ask me about: Astronomy
-📫 Contact: -
+<ul> <li>🔭 Currently working on: <code>Research on Photovoltaic Power Output Prediction Using Ensemble Learning Algorithms</code></li> <li>🔭 Currently working on: <code>Research on Redshift Analysis Using SDSS Data</code></li> <li>🌱 Currently learning: <code>Machine Learning, Physics, Computational Physics, Astronomy</code></li> <li>💬 Ask me about: <code>Astronomy</code></li> <li>📫 Contact: <code>-</code></li> </ul>
 
 ## 🛰️ Tools
 
