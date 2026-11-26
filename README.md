@@ -4,7 +4,7 @@
 
 <img src="assets/header.svg" alt="Header Yozophy" width="80%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=E0A458&center=true&vCenter=true&width=520&lines=Halo%2C+saya+Yozophy+%E2%9C%A8;Terpesona+oleh+Pillars+of+Creation;Membangun+sesuatu+dari+debu+bintang" alt="Teks mengetik" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=E0A458&center=true&vCenter=true&width=520&lines=Hallo%2C+I'm+Yozophy+%E2%9C%A8;Captivated+by+the+Pillars+of+Creation;Building+something+from+stardust" alt="Teks mengetik" />
 
 <br/>
 
