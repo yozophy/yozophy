@@ -19,12 +19,13 @@
 
 ## 🌌 About Me
 
-Seperti Pillars of Creation, sebuah proyek besar dimulai dari gumpalan gas dan debu yang pelan-pelan runtuh oleh gravitasi, lalu menjadi bintang baru. Begitu juga cara saya belajar dan membangun: sedikit demi sedikit, sampai ada yang menyala.
+My fascination with the cosmos is the compass by which I live. In the Pillars of Creation, clouds of gas and dust collapse slowly under their own gravity until new stars ignite. I take this as a model for how I learn and work: understanding forms through patient, incremental effort, until it begins to shine.
 
-- 🔭 Sedang mengerjakan: `Penelitian terkait Prediksi Daya Keluaran Fotovoltaik Berbasis Algoritma Ensemble Learning`
-- 🌱 Sedang dipelajari: `Machine Learning, Physics, Computational Physics`
-- 💬 Tanya saya soal: `Astronomi`
-- 📫 Kontak: `-`
+🔭 Currently working on: Research on Photovoltaic Power Output Prediction Using Ensemble Learning Algorithms
+🔭 Currently working on: Research on Redshift Analysis Using SDSS Data
+🌱 Currently learning: Machine Learning, Physics, Computational Physics, Astronomy
+💬 Ask me about: Astronomy
+📫 Contact: -
 
 ## 🛰️ Tools
 
